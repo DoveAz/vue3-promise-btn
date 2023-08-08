@@ -1,0 +1,12 @@
+{
+  "name": "vue3-promise-btn",
+  "version": "0.0.8",
+  "description": "",
+  "main": "index.js",
+  "web-types": "./web-types.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DoveAz",
+  "license": "ISC"
+}

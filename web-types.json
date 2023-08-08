@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/web-types",
+  "framework": "vue",
+  "name": "vue3-promise-button",
+  "version": "0.0.5",
+  "contributions": {
+    "html": {
+      "attributes": [
+        {
+          "name": "v-promise-btn",
+          "description": "promise button 注意click事件需要是一个promise"
+        }
+      ]
+    }
+  }
+}
