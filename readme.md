@@ -1,6 +1,6 @@
 ### vue3-promise-btn
 
-参考 [vue-promise-btn](https://www.npmjs.com/package/vue-promise-btn) 不支持配置，支持element-plus、vant等库，理论上button组件内部用loading控制加载状态的都支持
+参考 [vue-promise-btn](https://www.npmjs.com/package/vue-promise-btn) 支持element-plus、vant等库，理论上button组件内部用loading控制加载状态的都支持
 
 
 ##### 安装
@@ -20,6 +20,6 @@ app.use(promiseButton).use(ElementPlus).mount('#app')
 ```
 
 ```vue
-<el-button v-promise-btn @click="a function that must returns a promise">提交</el-button>
+<el-button v-promise-btn @click="a_function_that_must_returns_a_promise">提交</el-button>
 ```
 
